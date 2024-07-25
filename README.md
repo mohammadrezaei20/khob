@@ -1,2 +1,2 @@
 # khob
- first shop woth html/css
+ first shop with html/css 
